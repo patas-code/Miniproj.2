@@ -1,0 +1,13 @@
+# initialize all libraries for webscraping and sending out emailsto hospitals
+
+from scrapling.fetchers import Fetcher, StealthyFetcher, DynamicFetcher
+from scrapling.fetchers import FetcherSession, StealthySession, DynamicSession
+
+# interface with FDA recall website and find classfification, severity, name of device
+
+
+
+
+
+
+# find out which hospitals use this device -> contact for PR & hospital buyer(s)
